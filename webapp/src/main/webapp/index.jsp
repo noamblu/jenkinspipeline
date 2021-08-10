@@ -1,1 +1,1 @@
-Hello, World! Version 10
+Hello, DevOps Course! Version 10
