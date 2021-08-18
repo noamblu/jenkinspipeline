@@ -2,12 +2,12 @@ pipeline{
     agent any
     stage("Init") {
         steps {
-            echo "Testing.."
+            echo "Testing..."
         }
     }
     stage("Bulid") {
         steps {
-            echo "Building.."
+            echo "Building..."
         }
     }
     stage("Deploy") {
